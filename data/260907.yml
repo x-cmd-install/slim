@@ -5,7 +5,7 @@ about:
   head: 81940d1
   archived: false
   latestVersion: "1.40.11"
-  collectedAt: 2026-09-07T04:27:09Z
+  collectedAt: 2026-09-07T20:09:50Z
 timeline:
   created: 2015-09-09
   lastCommit: 2026-08-02
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 23404
   watcher: 184
-  fork: 841
+  fork: 840
   release: 49
   contributor: 67
   pullRequest: 436
@@ -82,7 +82,7 @@ total:
   commit: 1139
 ---
 path: /home/runner/.x-repo/github.com/slimtoolkit/slim
-collectedAt: 2026-09-07T04:27:18Z
+collectedAt: 2026-09-07T20:10:03Z
 loc:
   Go:
     code: 1322746
@@ -273,7 +273,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:27:20+00:00
+  collectedAt: 2026-09-07T20:10:08+00:00
   platform:
     darwin/arm64:
       name:  null
