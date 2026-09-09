@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 28229068,
       "digest": null,
-      "download_count": 65947,
+      "download_count": 66056,
       "created_at": "2025-01-23T02:59:14Z",
       "updated_at": "2025-01-23T02:59:23Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 26338913,
       "digest": null,
-      "download_count": 560,
+      "download_count": 561,
       "created_at": "2025-01-23T02:59:37Z",
       "updated_at": "2025-01-23T02:59:44Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25809341,
       "digest": null,
-      "download_count": 10503,
+      "download_count": 10518,
       "created_at": "2025-01-23T02:59:25Z",
       "updated_at": "2025-01-23T02:59:31Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz"

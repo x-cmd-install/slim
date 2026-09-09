@@ -7,7 +7,7 @@ about:
   latestVersion: "1.40.11"
   latestRelease: "1.40.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:32:53Z
+  collectedAt: 2026-09-09T18:27:29Z
 timeline:
   created: 2015-09-09
   lastCommit: 2026-08-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-02-02
   lastPrerelease: 
 popularity:
-  star: 23405
+  star: 23406
   watcher: 184
   fork: 840
   release: 49
@@ -86,7 +86,7 @@ total:
   commit: 1139
 ---
 path: /home/runner/.x-repo/github.com/slimtoolkit/slim
-collectedAt: 2026-09-09T04:33:03Z
+collectedAt: 2026-09-09T18:27:37Z
 loc:
   Go:
     code: 1322746
