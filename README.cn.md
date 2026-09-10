@@ -4,7 +4,7 @@
 
 Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
-![slim](https://repo.x-cmd.io/slim.svg)
+![slim](https://repo.x-cmd.io/slim.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,20 @@ x install slim
 - **最新版本**: `1.40.11` (2024-02-02)
 - **最近提交**: 2026-08-02
 - **Release 含资产**: 5 个
-- **发布时间**: 2024-02-02T13:57:50Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist_linux.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux.tar.gz) | 26.9 MiB | `native/unknown` |
+| [dist_linux_arm.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm.tar.gz) | 25.1 MiB | `native/linux/arm` |
+| [dist_linux_arm64.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz) | 24.6 MiB | `native/linux/arm64` |
+| [dist_mac.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac.zip) | 70.3 MiB | `other` |
+| [dist_mac_m1.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac_m1.zip) | 65.8 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 23,406 · **Fork**: 840 · **开放 issue**: 352 · **贡献者**: 67
+- **Star**: 23,407 · **Fork**: 840 · **开放 issue**: 352 · **贡献者**: 67
 
 ## 累计统计
 
@@ -71,4 +80,4 @@ slim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:32:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:50Z._
