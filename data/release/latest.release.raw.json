@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 28229068,
       "digest": null,
-      "download_count": 66153,
+      "download_count": 66184,
       "created_at": "2025-01-23T02:59:14Z",
       "updated_at": "2025-01-23T02:59:23Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 25809341,
       "digest": null,
-      "download_count": 10530,
+      "download_count": 10534,
       "created_at": "2025-01-23T02:59:25Z",
       "updated_at": "2025-01-23T02:59:31Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 68968761,
       "digest": null,
-      "download_count": 1228,
+      "download_count": 1229,
       "created_at": "2025-01-23T02:58:48Z",
       "updated_at": "2025-01-23T02:59:06Z",
       "browser_download_url": "https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac_m1.zip"
