@@ -12,44 +12,7 @@ Slim(toolkit): Don't change anything in your container image and minify it by up
 x install slim
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/slimtoolkit/slim>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `1.40.11` (2024-02-02)
-- **Last commit**: 2026-08-02
-- **Assets in release**: 5
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [dist_linux.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux.tar.gz) | 26.9 MiB | `native/unknown` |
-| [dist_linux_arm.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm.tar.gz) | 25.1 MiB | `native/linux/arm` |
-| [dist_linux_arm64.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz) | 24.6 MiB | `native/linux/arm64` |
-| [dist_mac.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac.zip) | 70.3 MiB | `other` |
-| [dist_mac_m1.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac_m1.zip) | 65.8 MiB | `other` |
-
-## Popularity
-
-- **Stars**: 23,407 · **Forks**: 840 · **Open issues**: 352 · **Contributors**: 67
-
-## Totals (cumulative)
-
-- **Releases**: 49 · **Merged PRs**: 271 · **Open PRs**: 23 · **Closed issues**: 164 · **Open issues**: 188 · **Commits**: 1139
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 4 | 1 | 1 | 1 |
-| 360d | 2025-09-15 | 0 | 22 | 10 | 4 | 8 | 24 |
-
-## Code size
+## Code insight
 
 Total: **1,370,114** lines of code across **5017** files in the top 5 languages.
 
@@ -71,6 +34,46 @@ Lowest-scoring checks:
 - **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
+## Source
+
+- **Upstream**: <https://github.com/slimtoolkit/slim>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `1.40.11` (2024-02-02)
+- **Last commit**: 2026-08-02
+- **Assets in release**: 5
+
+## Popularity
+
+- **Stars**: 23,407 · **Forks**: 840 · **Open issues**: 351 · **Contributors**: 67
+
+## Totals (cumulative)
+
+- **Releases**: 49 · **Merged PRs**: 271 · **Open PRs**: 23 · **Closed issues**: 163 · **Open issues**: 188 · **Commits**: 1139
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 2 | 1 | 1 | 1 |
+| 90d | 2026-06-13 | 0 | 1 | 4 | 1 | 1 | 1 |
+| last180d | 2026-03-15 | 0 | 1 | 6 | 3 | 4 | 2 |
+| 360d | 2025-09-16 | 0 | 22 | 10 | 4 | 8 | 24 |
+| last720d | 2024-09-21 | 0 | 53 | 17 | 11 | 19 | 59 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dist_linux.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux.tar.gz) | 26.9 MiB | `native/unknown` |
+| [dist_linux_arm.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm.tar.gz) | 25.1 MiB | `native/linux/arm` |
+| [dist_linux_arm64.tar.gz](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_linux_arm64.tar.gz) | 24.6 MiB | `native/linux/arm64` |
+| [dist_mac.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac.zip) | 70.3 MiB | `other` |
+| [dist_mac_m1.zip](https://github.com/slimtoolkit/slim/releases/download/1.40.11/dist_mac_m1.zip) | 65.8 MiB | `other` |
+
 ## Improve this data
 
 Install metadata for slim lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `slim` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +83,4 @@ Install metadata for slim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:11Z._
