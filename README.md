@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,413 · **Forks**: 841 · **Open issues**: 351 · **Contributors**: 68
+- **Stars**: 23,414 · **Forks**: 842 · **Open issues**: 351 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 23 · **Closed issues**: 163 · **Open issues**: 188 · **Commits**: 1140
+- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 24 · **Closed issues**: 163 · **Open issues**: 188 · **Commits**: 1140
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-23 | 0 | 1 | 2 | 1 | 1 | 2 |
-| 90d | 2026-06-23 | 0 | 2 | 2 | 1 | 1 | 2 |
-| last180d | 2026-03-25 | 0 | 2 | 6 | 2 | 2 | 2 |
-| 360d | 2025-09-26 | 0 | 23 | 10 | 4 | 8 | 25 |
-| last720d | 2024-10-01 | 0 | 53 | 17 | 11 | 19 | 59 |
+| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-24 | 0 | 1 | 3 | 1 | 1 | 2 |
+| 90d | 2026-06-24 | 0 | 2 | 3 | 1 | 1 | 2 |
+| last180d | 2026-03-26 | 0 | 2 | 7 | 2 | 2 | 2 |
+| 360d | 2025-09-27 | 0 | 23 | 11 | 4 | 8 | 25 |
+| last720d | 2024-10-02 | 0 | 53 | 18 | 11 | 19 | 59 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for slim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:52:05Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:43:38Z._
