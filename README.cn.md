@@ -4,7 +4,7 @@
 
 Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
-[![x-cmd/install — slim Code Quality Monitoring Repo Card](https://repo.x-cmd.io/slim.svg?lang=zh)](https://x-cmd.com/install/slim)
+[![x-cmd/install — slim Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/slim.svg?lang=zh)](https://x-cmd.com/install/slim)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install slim
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.5 / 10**
+总评分: **3.8 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (4/10) — 1 commit(s) and 4 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -51,18 +51,18 @@ x install slim
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 272 · **开放 PR**: 24 · **已关闭 issue**: 163 · **开放 issue**: 188 · **提交数**: 1140
+- **发布数**: 49 · **已合并 PR**: 272 · **开放 PR**: 25 · **已关闭 issue**: 163 · **开放 issue**: 188 · **提交数**: 1140
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 1 | 3 | 1 | 1 | 2 |
-| 90d | 2026-06-24 | 0 | 2 | 3 | 1 | 1 | 2 |
-| last180d | 2026-03-26 | 0 | 2 | 7 | 2 | 2 | 2 |
-| 360d | 2025-09-27 | 0 | 23 | 11 | 4 | 8 | 25 |
-| last720d | 2024-10-02 | 0 | 53 | 18 | 11 | 19 | 59 |
+| 30d | 2026-08-24 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 1 | 4 | 1 | 1 | 2 |
+| 90d | 2026-06-25 | 0 | 2 | 4 | 1 | 1 | 2 |
+| last180d | 2026-03-27 | 0 | 2 | 8 | 2 | 2 | 2 |
+| 360d | 2025-09-28 | 0 | 23 | 12 | 4 | 8 | 25 |
+| last720d | 2024-10-03 | 0 | 53 | 19 | 11 | 19 | 59 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ slim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:43:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:37:53Z._
