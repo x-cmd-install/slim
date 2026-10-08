@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-08-08 | 0 | 1 | 2 | 0 | 0 | 1 |
-| 90d | 2026-07-09 | 0 | 1 | 4 | 1 | 1 | 2 |
-| last180d | 2026-04-10 | 0 | 2 | 7 | 2 | 2 | 2 |
-| 360d | 2025-10-12 | 0 | 23 | 12 | 4 | 7 | 22 |
-| last720d | 2024-10-17 | 0 | 52 | 18 | 11 | 17 | 58 |
+| 30d | 2026-09-08 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-09 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-10 | 0 | 1 | 4 | 1 | 1 | 2 |
+| last180d | 2026-04-11 | 0 | 2 | 7 | 2 | 2 | 2 |
+| 360d | 2025-10-13 | 0 | 22 | 12 | 4 | 7 | 22 |
+| last720d | 2024-10-18 | 0 | 52 | 18 | 11 | 17 | 58 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for slim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:46:10Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:56:15Z._
