@@ -30,8 +30,8 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,427 · **Forks**: 846 · **Open issues**: 351 · **Contributors**: 68
+- **Stars**: 23,427 · **Forks**: 847 · **Open issues**: 351 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 24 · **Closed issues**: 163 · **Open issues**: 188 · **Commits**: 1140
+- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 25 · **Closed issues**: 163 · **Open issues**: 188 · **Commits**: 1140
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-07-16 | 0 | 1 | 3 | 1 | 1 | 2 |
-| last180d | 2026-04-17 | 0 | 2 | 5 | 2 | 2 | 2 |
-| 360d | 2025-10-19 | 0 | 20 | 11 | 4 | 7 | 21 |
-| last720d | 2024-10-24 | 0 | 51 | 17 | 11 | 17 | 58 |
+| 30d | 2026-09-15 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-16 | 0 | 1 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-17 | 0 | 1 | 4 | 1 | 1 | 2 |
+| last180d | 2026-04-18 | 0 | 2 | 6 | 2 | 2 | 2 |
+| 360d | 2025-10-20 | 0 | 20 | 12 | 4 | 7 | 21 |
+| last720d | 2024-10-25 | 0 | 50 | 18 | 11 | 17 | 58 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for slim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:43:36Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:27:04Z._
